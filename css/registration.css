@@ -1,0 +1,36 @@
+body{
+	background-color: #ebe7df;
+
+}
+.login,
+.registration{
+	background-color: #bcb5a7;
+	border-radius: 10px;
+	padding: 25px;
+	font: 14px 'Aller Bold', sans-serif;
+}
+.login{
+	margin-top: 30px;
+}
+.registration{
+	margin: 20px 0;
+}
+.login button,
+.registration button{
+	color: #fff;
+	background-color: #57c5a0;
+	border: 0;
+	text-decoration: none;
+	padding: 9px 20px;
+	margin: 10px auto;
+	display: block;
+}
+.login h1,
+.registration h1{
+	margin: 0;
+	text-align: center;
+}
+.wrapper-form{
+	width: 160px;
+	margin: 0 auto;
+}
